@@ -45,10 +45,14 @@ These were the scores of Thomas High School before replacing with agrregate scor
 And these are the score after replacing with aggregate values. 
 ![Screen Shot 2021-11-17 at 11 35 20 AM](https://user-images.githubusercontent.com/75961057/142276322-224ca7f3-16a0-45bc-bed0-f613fd059085.png)
 
-Math and reading scores by grade : You see a big difference in the % Passing and % Overall Passing scores from ~90% to ~ 65%. These values will skew the results for making decisions. 
-Scores by school spending
-Scores by school size
-Scores by school type
+* Math and reading scores by grade : You see a big difference in the % Passing and % Overall Passing scores from ~90% to ~ 65%. These values will skew the results for making decisions. 
+* Scores by school spending : Replacing with the aggregate scores affects the School spending range table. If you don't replace with aggregate scores, the calculation of Average and Overall scores will significantly lower for the $640-$644 range which is where Thomas High School falls under. 
+![Screen Shot 2021-11-17 at 12 49 55 PM](https://user-images.githubusercontent.com/75961057/142280272-fdd45a5e-0840-4c73-a262-8589d363a82e.png)
+
+
+* Scores by school size : 
+
+* Scores by school type
 
 ![Final per school summary](https://user-images.githubusercontent.com/75961057/142277002-27ca2d1c-1507-49e3-a6de-e030f09f100d.png)
 
